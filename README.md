@@ -1,11 +1,10 @@
-# Welcome to magic 8 ball
-[Magic 8 ball](https://en.wikipedia.org/wiki/Magic_8-Ball) give you answers on future. Ask the 8 ball and get answers on your questions.
+# Welcome to hangman
+[Hangman](https://en.wikipedia.org/wiki/Hangman_(game)) is game where player tries to guess the word by suggesting letters within a certain number of guesses.
 
 This is a simple [ruby](https://www.ruby-lang.org/ru/downloads/) application.
 
 ## Getting Started
- 1. Ask the questions in your mind
- 2. Start program
- 
-        $ ruby 8ball.rb
- 3. See the answer to your question
+ 1. Copy files from repository
+ 2. In folder of game start command "bundle install" to install gem 'colorize' and gem 'unicode'
+ 3. Execute "ruby main.rb"
+ 4. Enjoy the game
